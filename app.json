@@ -1,6 +1,6 @@
 {
-  "name": "Python on Heroku",
+  "name": "Python on Heroku with Sentry logs",
   "description": "Sample project to deploy to Heroku.",
   "image": "heroku/python",
-  "keywords": ["python", "bottle" ],
+  "keywords": ["python", "bottle", "sentry_sdk"],
 }
